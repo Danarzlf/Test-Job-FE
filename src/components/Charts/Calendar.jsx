@@ -70,9 +70,9 @@ export default function Calendar() {
 	};
 
 	return (
-    <div className="col-span-12 rounded-sm border border-stroke bg-white p-7.5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
+    <div className="col-span-12 rounded-sm border border-stroke bg-white py-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
       <div className="flex justify-center  w-full">
-        <div className="w-96 px-5 py-5">
+        <div className="w-auto px-5 py-">
           <div className="flex justify-between items-center">
             <h1 className="select-none font-semibold">
               {months[today.month()]}, {today.year()}
@@ -124,7 +124,7 @@ export default function Calendar() {
                     <h1
                       className={cn(
                         currentMonth ? "" : "text-gray-400",
-                        today ? "bg-red-600 text-white" : "",
+                        today ? "bg-black text-white" : "",
                         selectDate
                           .toDate()
                           .toDateString() === date.toDate().toDateString()

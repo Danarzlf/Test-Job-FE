@@ -12,6 +12,7 @@ export default {
         "customBorder": '#DCDFEA'
       },
       fontSize: {
+        'custom8px': '8px',
         'custom20px': '20px',
         'custom12px': '12px',
         'custom14px': '14px',

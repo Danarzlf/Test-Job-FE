@@ -53,13 +53,13 @@ const chatData = [
 
 const ChatCard = () => {
   return (
-    <div className="col-span-12 rounded-sm border border-stroke bg-white py-6 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
-      <div className="flex flex-wrap items-start justify-between gap-3 sm:flex-nowrap">
-            <div className="flex w-full flex-wrap gap-3 sm:gap-5">
+    <div className="col-span-12 rounded-sm border border-stroke bg-white p-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
+      <div className="mb-5 flex flex-wrap items-start justify-between gap-3 sm:flex-nowrap">
+            <div className="flex flex-wrap gap-3 sm:gap-5">
               <img src="first-air-kit.svg" alt="" />
               <span className="text-[18] font-medium">Appointment</span>
             </div>
-            <div className="flex w-full max-w-45 justify-end">
+            <div className="flex max-w-45 justify-end">
               <div className="inline-flex items-center">    
                   <EllipsisHorizontalIcon className="w-5 h-5 text-black" />   
               </div>
@@ -84,14 +84,14 @@ const ChatCard = () => {
               <div>
                 <h5 className="font-medium text-black ">{chat.name}</h5>
                 <p>
-                  <span className="text-sm text-black ">{chat.text}</span>
+                  <span className="text-sm text-[#5D6B98] ">{chat.text}</span>
                 </p>
               </div>
                 <div className="flex h-6 w-6 items-center justify-center rounded-full bg-primary">
                  <div>
-                <h5 className="font-medium text-black ">{chat.day}</h5>
+                <h5 className="font-medium text-[#5D6B98] ">{chat.day}</h5>
                 <p>
-                  <span className="text-sm text-black ">{chat.time}</span>
+                  <span className="text-sm text-black font-semibold">{chat.time}</span>
                 </p>
               </div>
                 </div>  

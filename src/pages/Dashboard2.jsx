@@ -18,7 +18,7 @@ export default function Dashboard2() {
       <Sidebar2 />
 
       <div className="p-0 sm:ml-64">
-        <div className="flex items-center justify-center h-20 rounded bg-gray-200">
+        <div className="flex items-center justify-center h-20 rounded bg-[#FFFFF] border border-[#DCDFEA]">
         <div className="flex flex-grow items-center justify-between px-4 py-4 shadow-2 md:px-6 2xl:px-11">
                         <div className="flex items-center gap-2 sm:gap-4 lg:hidden">
                             {/* Hamburger Toggle BTN */}
@@ -46,7 +46,7 @@ export default function Dashboard2() {
                                     </svg>
                                 </button>
 
-                                <p>Welcome back, Darrel</p>
+                                <p className="text-custom20px font-semibold">Welcome back, Darrel</p>
                             </div>
                         </div>
 
