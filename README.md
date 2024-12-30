@@ -7,9 +7,9 @@ BASE URL : https://danarzlf.github.io/Test-Job-FE<br>
 
 
 Membangun Dashboard Frontend dengan Tailwind CSS.
-![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141321.png?token=GHSAT0AAAAAAC3SGI3S2FK35ZSEWX27K5DOZ3SJDWA)
+![startpage](https://raw.githubusercontent.com/Danarzlf/Challenge-chapter-4-Binar-Academy/refs/heads/main/public/image/Screenshot%202024-12-30%20141321.png)
 
-![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141335.png?token=GHSAT0AAAAAAC3SGI3TXIYG6KH3IUU6Y5KEZ3SJETA)
+![startpage](https://raw.githubusercontent.com/Danarzlf/Challenge-chapter-4-Binar-Academy/refs/heads/main/public/image/Screenshot%202024-12-30%20141335.png)
 
 
 
