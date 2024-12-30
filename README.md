@@ -1,15 +1,11 @@
 <a id="readme-top"></a>
-# Test Job Project
-
-BASE URL : https://test-job-beta.vercel.app/<br>
-API DOCUMENTATION : https://test-job-beta.vercel.app/api-docs
-
+# Test Job Front-End
 
 
 ## About The Project
 
 
-Evaluasi Kemampuan Fullstack: Node.js dan Database  Rimba Ananta Vikasa Indonesia .
+Membangun Dashboard Frontend dengan Tailwind CSS.
 ![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141321.png?token=GHSAT0AAAAAAC3SGI3S2FK35ZSEWX27K5DOZ3SJDWA)
 
 ![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141335.png?token=GHSAT0AAAAAAC3SGI3TXIYG6KH3IUU6Y5KEZ3SJETA)
