@@ -70,7 +70,7 @@ export default function Calendar() {
 	};
 
 	return (
-    <div className="col-span-12 rounded-sm border border-stroke bg-white py-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
+    <div className="col-span-12 rounded-2xl border border-[#DCDFEA] bg-white py-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
       <div className="flex justify-center  w-full">
         <div className="w-auto px-5 py-">
           <div className="flex justify-between items-center">

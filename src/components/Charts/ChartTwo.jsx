@@ -59,7 +59,7 @@ const ChartTwo = () => {
   };
 
   return (
-    <div className="col-span-12 rounded-sm border border-stroke bg-white shadow-default xl:col-span-4">
+    <div className="col-span-12 rounded-2xl border border-[#DCDFEA] bg-white shadow-default xl:col-span-4">
       <div className="flex justify-center">
         <div className="">
           <div className="mb-5 p-5 flex flex-wrap items-start justify-between gap-3 sm:flex-nowrap">

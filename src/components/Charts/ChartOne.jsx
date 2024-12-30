@@ -131,7 +131,7 @@ const ChartOne = () => {
   };
 
   return (
-    <div className="col-span-12 rounded-sm border border-stroke bg-white px-5 py-5 pb-5 shadow-default  sm:px-7.5 xl:col-span-8">
+    <div className="col-span-12 rounded-2xl border border-[#DCDFEA] bg-white px-5 py-5 pb-5 shadow-default  sm:px-7.5 xl:col-span-8">
       <div className="flex flex-wrap items-start justify-between gap-3 sm:flex-nowrap">
         <div className="flex w-full flex-wrap gap-3 sm:gap-5">
           <img src="user-group-alt2.svg" alt="" />

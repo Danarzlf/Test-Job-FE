@@ -10,7 +10,7 @@ export default function Medicine() {
     // Fungsi untuk toggle dropdown
 
   return (
-    <div className="col-span-12 rounded-sm border border-stroke p-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
+    <div className="col-span-12 rounded-2xl border border-[#DCDFEA] p-5 shadow-default dark:border-strokedark dark:bg-boxdark xl:col-span-4">
       <div className="flex flex-wrap items-start justify-between gap-3 sm:flex-nowrap mb-5">
             <div className="flex flex-wrap gap-3 sm:gap-5">
               <img src="first-air-kit.svg" alt="" />
