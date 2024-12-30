@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 # Test Job Front-End
 
+BASE URL : https://danarzlf.github.io/Test-Job-FE<br>
 
 ## About The Project
 
