@@ -10,7 +10,9 @@ API DOCUMENTATION : https://test-job-beta.vercel.app/api-docs
 
 
 Evaluasi Kemampuan Fullstack: Node.js dan Database  Rimba Ananta Vikasa Indonesia .
-![startpage](https://github.com/Danarzlf/Challenge-chapter-4-Binar-Academy/blob/main/public/image/startpage.png?raw=true)
+![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141321.png?token=GHSAT0AAAAAAC3SGI3S2FK35ZSEWX27K5DOZ3SJDWA)
+
+![startpage](https://raw.githubusercontent.com/Danarzlf/Portfolio/refs/heads/main/public/Screenshot%202024-12-30%20141335.png?token=GHSAT0AAAAAAC3SGI3TXIYG6KH3IUU6Y5KEZ3SJETA)
 
 
 
@@ -53,7 +55,6 @@ Follow these steps to set up and run the project on your local machine.
 1. Start the server
    ```js
    npm start
-   ```
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
