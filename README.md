@@ -1,8 +1,6 @@
 <a id="readme-top"></a>
 # Test Job Front-End
 
-BASE URL : https://danarzlf.github.io/Test-Job-FE<br>
-
 ## About The Project
 
 
@@ -51,7 +49,7 @@ Follow these steps to set up and run the project on your local machine.
 ### Running Project
 1. Start the server
    ```js
-   npm start
+   npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
